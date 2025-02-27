@@ -110,7 +110,3 @@ I’m open to **Data Science, Machine Learning, and AI roles**. If you’re look
 ```bash
 ⭐ git star https://github.com/yourgithubusername/Bank-Marketing-Prediction
 ```
-
----
-
-This `README.md` will make **senior professionals, recruiters, and hiring managers take notice** of your work. Let me know if you’d like me to tweak it further! 🚀😊
