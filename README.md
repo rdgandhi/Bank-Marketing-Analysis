@@ -1,7 +1,3 @@
-Here's a compelling `README.md` file for your GitHub repository that highlights your expertise as a **Data Scientist**, making it appealing to senior professionals and recruiters.  
-
----
-  
 # 🚀 **Bank Marketing Prediction & Feature Engineering**  
 
 **Author**: *Rahul Gandhi*  
